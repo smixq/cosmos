@@ -1,1 +1,1 @@
-# cosmos_stas
+# cosmos
